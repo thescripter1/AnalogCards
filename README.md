@@ -12,3 +12,11 @@ sudo apt-get install libqt5gui5 libqt5webkit5 libqt5test5
 pip install pyzbar
 
 pip install openpyxl
+
+sudo raspi-config
+
+3. Interfaces
+1. Lagacy Camera support
+ yes
+finish
+sudo reboot now
